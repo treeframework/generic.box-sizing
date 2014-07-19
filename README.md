@@ -1,8 +1,14 @@
 # box-sizing
 
-The `box-sizing` module is clone of [inuitcss] (https://github.com/inuitcss) -
-[generic.box-sizing] (https://github.com/inuitcss/generic.box-sizing) <q>causes
-all elements to use the more useful `border-box` box model</q>.
+The `box-sizing` module causes all elements to use the more useful `border-box`
+box model.
 
-It is develop and maintained by [Harry Roberts] (https://twitter.com/csswizardry).
+Install using Bower:
+
+    $ bower install --save tree-box-sizing
+
+## Credits
+
+* **[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS
+framework designed with scalability and performance in mind.
 
