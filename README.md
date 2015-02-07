@@ -5,7 +5,15 @@ box model.
 
 Install using Bower:
 
-    $ bower install --save tree-box-sizing
+```sh
+$ bower install tree-box-sizing --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-box-sizing --save
+```
 
 ## Credits
 
