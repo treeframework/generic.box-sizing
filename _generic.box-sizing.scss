@@ -1,13 +1,18 @@
-// *************************************
+// =============================================================================
 //
-//   #BOX-SIZING
+// Name:          Box-sizing
 //
-// *************************************
+// Description:   More usefull `border-box` box model.
+//
+// Links:         https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+//                http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+//
+// =============================================================================
 
-// Set default `box-sizing` state to `border-box`.
-//
-// css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
-// paulirish.com/2012/box-sizing-border-box-ftw
+
+
+
+
 html {
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
@@ -32,4 +37,5 @@ html {
 
 // If we have included this file, set a variable to tell the rest of the
 // framework that global `box-sizing: border-box` has been set.
+
 $tree-global-border-box: true;
