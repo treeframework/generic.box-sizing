@@ -1,7 +1,7 @@
 {
   "name": "tree-box-sizing",
   "description": "Global box sizing rules.",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "author": "Ilia Kolev <info@iliakolev.com>",
   "bugs": {
     "url": "https://github.com/treeframework/generic.box-sizing/issues"
